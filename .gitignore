@@ -1,13 +1,9 @@
 sinhtest.cpp
-sinhtest.exe
-sinhtest.o
 TASK.cpp
-TASK.exe
-TASK.o
 TASK_trau.cpp
-TASK_trau.exe
-TASK_trau.o
 TASK.inp
 TASK.out
 TASK.ans
+*.exe
+*.o
 /tmp
